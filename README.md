@@ -8,7 +8,7 @@ I wrote the first open source OneDrive library written in Go (Golang) called [go
 
 My hobbies are:
 - [Working on personal hobby projects](https://github.com/goh-chunlin);
-- Playing games, eg. [Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/global/en-us/home), [Genshin Impact](https://www.playstation.com/en-sg/games/genshin-impact/);
+- Playing games, eg. [Command and Conquer 3 Tiberium Wars](https://www.ea.com/en-gb/games/command-and-conquer/command-and-conquer-3-tiberium-wars), [Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/global/en-us/home), [Genshin Impact](https://www.playstation.com/en-sg/games/genshin-impact/);
 - [Watching anime](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg);
 - [Reading visual novels](https://store.steampowered.com/search/?tags=3799);
 - Drawing anime character, as shown in the screenshot below.
