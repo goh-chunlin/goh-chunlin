@@ -7,7 +7,7 @@ I am also the tech meetup and conference co-organizer and speaker for [Singapore
 I wrote the first open source OneDrive library written in Go (Golang) called [go-onedrive](https://github.com/goh-chunlin/go-onedrive). It's currenly being used by developers around the world and having [contributors from the industries](https://github.com/goh-chunlin/go-onedrive/graphs/contributors). It got popular to my surprise. I still continue to work on it as my side project because I found it as an effective learning tool for me and I am glad that many others benefit from them as well.
 
 My hobbies are:
-- [Working on projects](https://github.com/goh-chunlin);
+- [Working on personal hobby projects](https://github.com/goh-chunlin);
 - Playing games, eg. [Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/global/en-us/home), [Genshin Impact](https://www.playstation.com/en-sg/games/genshin-impact/);
 - [Watching anime](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg);
 - [Reading visual novels](https://store.steampowered.com/search/?tags=3799);
