@@ -13,4 +13,4 @@ My hobbies are:
 - [Reading visual novels](https://store.steampowered.com/search/?tags=3799);
 - Drawing anime character, as shown in the screenshot below.
 
-![image](https://user-images.githubusercontent.com/8535306/129833822-a634f5a7-357e-40cc-ba9e-63498fd07bb3.png)
+![image](https://user-images.githubusercontent.com/8535306/137588314-9147daa1-1f68-426f-bd50-c91f928c01b4.png)
