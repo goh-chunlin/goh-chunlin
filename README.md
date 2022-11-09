@@ -1,6 +1,6 @@
 My name is Chun Lin.
 
-I come from [a small village in Malaysia](https://goo.gl/maps/s2ymn2tsZ26bJgMV6). Currently, I am a software developer based in Singapore specializing in building cloud-first web applications and APIs. I am now working in the [Centre of Excellence in Modelling and Simulation for Next Generation Ports at National University of Singapore as their Senior Information Technology Engineer](https://www.eng.nus.edu.sg/c4ngp/staff/goh-chun-lin/).
+I come from [a small village in Malaysia](https://goo.gl/maps/s2ymn2tsZ26bJgMV6). Currently, I am a software developer based in Singapore specializing in building cloud-first web applications and APIs. I am now working as Senior Consultant in the [Samsung SDS](https://www.samsungsds.com/en/index.html).
 
 I am also the tech meetup and conference co-organizer and speaker for [Singapore .NET Developers Community and Azure Community Singapore](https://www.dotnet.sg/). In 2019, I am officially accepted as a member in the [.NET Foundation](https://dotnetfoundation.org/community/speakers/goh-chun-lin) family.
 
