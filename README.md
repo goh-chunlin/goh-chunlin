@@ -2,7 +2,7 @@ My name is Chun Lin.
 
 I come from [a small village in Malaysia](https://goo.gl/maps/s2ymn2tsZ26bJgMV6). Currently, I am a software developer based in Singapore specializing in building cloud-first web applications and APIs. I am now working as Senior Consultant in [Samsung SDS](https://www.samsungsds.com/en/index.html).
 
-I am also the speaker for [Singapore .NET Developers Community and Azure Community Singapore](https://www.dotnet.sg/). In 2019, I am officially accepted as a member in the [.NET Foundation](https://dotnetfoundation.org/community/speakers/goh-chun-lin) family.
+I am also the speaker for [Singapore .NET Developers Community and Azure Community Singapore](https://www.dotnet.sg/). In 2019, I am officially accepted as a member in the [.NET Foundation](https://old.dotnetfoundation.org/community/speakers/goh-chun-lin) family.
 
 I wrote the first open source OneDrive library written in Go (Golang) called [go-onedrive](https://github.com/goh-chunlin/go-onedrive). It's currenly being used by developers around the world and having [contributors from the industries](https://github.com/goh-chunlin/go-onedrive/graphs/contributors). It got popular to my surprise. I still continue to work on it as my side project because I found it as an effective learning tool for me and I am glad that many others benefit from them as well.
 
