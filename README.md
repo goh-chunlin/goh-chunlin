@@ -6,11 +6,12 @@ I am also the speaker for [Singapore .NET Developers Community and Azure Communi
 
 I wrote the first open source OneDrive library written in Go (Golang) called [go-onedrive](https://github.com/goh-chunlin/go-onedrive). It's currenly being used by developers around the world and having [contributors from the industries](https://github.com/goh-chunlin/go-onedrive/graphs/contributors). It got popular to my surprise. I still continue to work on it as my side project because I found it as an effective learning tool for me and I am glad that many others benefit from them as well.
 
-My hobbies are:
-- [Working on personal hobby projects](https://github.com/goh-chunlin);
-- Playing games, eg. [Command and Conquer 3 Tiberium Wars](https://www.ea.com/en-gb/games/command-and-conquer/command-and-conquer-3-tiberium-wars), [Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/global/en-us/home), [Genshin Impact](https://www.playstation.com/en-sg/games/genshin-impact/);
-- [Watching anime](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg);
-- [Reading visual novels](https://store.steampowered.com/search/?tags=3799);
-- Drawing anime character, as shown in the screenshot below.
+👋 Hello, I'm Chun Lin, a software developer from [a small village in Malaysia](https://goo.gl/maps/s2ymn2tsZ26bJgMV6), currently based in Singapore. I specialize in building cloud-first web applications and APIs, and I work as a Senior Consultant at [Samsung SDS Asia Pacific](https://www.samsungsds.com/en/index.html).
 
-![image](https://user-images.githubusercontent.com/8535306/137588314-9147daa1-1f68-426f-bd50-c91f928c01b4.png)
+🎤 In 2019, I became a proud member of the [.NET Foundation](https://dotnetfoundation.org/community/speakers/goh-chun-lin) family. I am currently also a speaker in the community.
+
+🚀 I'm the creator of [go-onedrive](https://github.com/goh-chunlin/go-onedrive), the first open-source OneDrive library written in Go (Golang). It has gained popularity worldwide and garnered contributions from industry professionals. I continue to work on it as a side project, finding it not only a valuable learning tool for myself but also benefiting many others.
+
+🎮 When I'm not coding, you'll find me working on personal hobby projects, diving into games like Command and Conquer 3 Tiberium Wars, Honkai Impact 3rd, and Genshin Impact. I'm also an avid anime watcher, visual novel reader, and enjoy drawing anime characters as a creative outlet.
+
+🌟 Passionate about technology and constantly exploring new possibilities. Let's connect and collaborate on exciting projects together!
