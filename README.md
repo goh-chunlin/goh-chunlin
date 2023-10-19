@@ -2,7 +2,7 @@
 
 🎤 In 2019, I became a proud member of the [.NET Foundation](https://dotnetfoundation.org/community/speakers/goh-chun-lin) family. I am currently also a speaker in the community.
 
-🚀 I'm the creator of [go-onedrive](https://github.com/goh-chunlin/go-onedrive), the first open-source OneDrive library written in Go (Golang). It has gained popularity worldwide and garnered [contributors from the industries](https://github.com/goh-chunlin/go-onedrive/graphs/contributors). I continue to work on it as a side project, finding it not only a valuable learning tool for myself but also benefiting many others.
+🚀 I'm the creator of [go-onedrive](https://github.com/goh-chunlin/go-onedrive), an open-source OneDrive library written in Go (Golang). It has gained popularity worldwide and garnered [contributors from the industries](https://github.com/goh-chunlin/go-onedrive/graphs/contributors). I continue to work on it as a side project, finding it not only a valuable learning tool for myself but also benefiting many others.
 
 🎮 When I'm not coding, you'll find me working on personal hobby projects, diving into games like [Command and Conquer 3 Tiberium Wars](https://www.ea.com/en-gb/games/command-and-conquer/command-and-conquer-3-tiberium-wars), [Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/global/en-us/home), and [Honkai: Star Rail](https://hsr.hoyoverse.com/en-us/). I'm also an avid anime watcher, visual novel reader, and enjoy drawing anime characters as a creative outlet.
 
