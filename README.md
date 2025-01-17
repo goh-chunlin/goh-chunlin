@@ -1,4 +1,4 @@
-👋 Hello, I'm Chun Lin, a software developer from [a small village in Malaysia](https://goo.gl/maps/s2ymn2tsZ26bJgMV6), currently based in [Singapore](https://goo.gl/maps/LcMv21JdsCcnkCCr7?coh=178573&entry=tt). I specialise in building cloud-first web applications and APIs, and I work as a Senior Cloud Engineer at [Dyson](https://www.dyson.com.sg/).
+👋 Hello, I'm Chun Lin, a software developer from [a small village in Malaysia](https://goo.gl/maps/s2ymn2tsZ26bJgMV6), currently based in [Singapore](https://goo.gl/maps/LcMv21JdsCcnkCCr7?coh=178573&entry=tt). I specialise in building cloud-first web applications and APIs, and I work as a Senior Cloud Software Engineer at [Dyson](https://www.dyson.com.sg/).
 
 🎤 In 2019, I became a proud member of the [.NET Foundation](https://dotnetfoundation.org/community/speakers/goh-chun-lin) family. I am currently also a speaker in the community.
 
