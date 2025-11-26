@@ -1,4 +1,4 @@
-👋 **Polyglot Systems Architect** (Python/Go/C#). .NET Foundation Member. Currently architecting **SilverAI** (Deterministic Safety for IoT & Agentic Systems). Based in Singapore.
+👋 **Polyglot Systems Architect** (Python/Go/C#). .NET Foundation Member. Currently architecting **SilverAi** (Deterministic Safety for IoT & Agentic Systems). Based in Singapore.
 
 🎤 **Community Leadership:** Since 2019, I have served as a member and speaker for the [.NET Foundation](https://dotnetfoundation.org/community/speakers/goh-chun-lin), advocating for open-source development in the enterprise space.
 
